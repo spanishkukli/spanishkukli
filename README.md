@@ -4,3 +4,6 @@
 
 [![follow](https://img.shields.io/github/followers/spanishkukli?label=follow&style=social)](https://github.com/spanishkukli)
 [![stars](https://img.shields.io/github/stars/spanishkukli?style=social)](https://github.com/spanishkukli?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spanishkukli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
